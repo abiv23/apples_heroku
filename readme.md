@@ -1,0 +1,3 @@
+## Routes
+* /apple
+* /apple/:id
